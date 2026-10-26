@@ -1,21 +1,52 @@
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="28" />
     Hello, I'm Kerob Gebru
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="28" />
   </h1>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Kerob-Gebru">
-    <img src="https://img.shields.io/badge/Profile-Views-106-9C6ADE?style=flat-square&logo=github" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Kerob-Gebru">
-    <img src="https://img.shields.io/badge/Full-Stack-Developer-7C3AED?style=flat-square" alt="Full-Stack Developer"/>
-  </a>
-  <a href="https://github.com/Kerob-Gebru">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square" alt="Open to Work"/>
-  </a>
+  <span style="
+    display:inline-block;
+    background: rgba(255,255,255,0.08);
+    color: #f3f7ff;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 10px;
+    padding: 10px 18px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-right: 10px;
+  ">
+    Profile Views <span style="color:#d9b3ff;">106</span>
+  </span>
+
+  <span style="
+    display:inline-block;
+    background: rgba(140, 92, 255, 0.25);
+    color: #d9b3ff;
+    border: 1px solid rgba(189, 147, 255, 0.35);
+    border-radius: 10px;
+    padding: 10px 18px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-right: 10px;
+  ">
+    Full-Stack Developer
+  </span>
+
+  <span style="
+    display:inline-block;
+    background: rgba(34, 197, 94, 0.22);
+    color: #7ce7a5;
+    border: 1px solid rgba(52, 211, 153, 0.35);
+    border-radius: 10px;
+    padding: 10px 18px;
+    font-weight: 700;
+    font-size: 18px;
+  ">
+    Status: Open to Work
+  </span>
 </p>
 
 <hr />
