@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=C88AFF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Kerob+Gebru;Full-stack+Developer;Building+modern+products" alt="Kerob Gebru profile intro" />
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />
+    Hello, I'm Kerob Gebru
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />
+  </h1>
 </div>
 
 <p align="center">
@@ -13,10 +17,6 @@
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square" alt="Open to Work"/>
   </a>
 </p>
-
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/..." alt="hero banner" />
-</div>
 
 <hr />
 
