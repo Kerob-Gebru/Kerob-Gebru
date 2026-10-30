@@ -21,10 +21,10 @@
 
 - 🚀 Full-stack software developer with hands-on project experience
 - 💡 I build scalable, user-focused web applications from database design to polished UI
-- ⚡ I’m currently focused on backend architecture, AI-powered systems, and modern product development
-- 🎓 Studying at Adama Science and Technology University
+- ⚡ I’m currently focused on frontend architecture, AI-powered systems, and modern product development
+- 🎓 Graduated at Adama Science and Technology University
 - 🌱 Exploring machine learning, AI technology, mobile app development, and intelligent product design
-- 🧠 Ask me about Next.js, REST APIs, authentication systems, AI integrations, and full-stack architecture
+- 🧠 Ask me about Next.js, REST APIs, authentication systems, AI integrations and full-stack architecture
 - 🐛 I enjoy debugging tricky backend issues and building clean, reliable user experiences
 
 <hr />
